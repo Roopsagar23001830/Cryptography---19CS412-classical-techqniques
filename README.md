@@ -1,4 +1,3 @@
-![image](https://github.com/user-attachments/assets/d1f24621-b4ae-46c2-889f-e671a1cf6194)# Cryptography---19CS412-classical-techqniques
 # Rail Fence Cipher
 Rail Fence Cipher using with different key values
 
