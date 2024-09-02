@@ -448,7 +448,7 @@ return 0;
 ## OUTPUT:
 OUTPUT :
 
-![Screenshot 2024-09-02 081157](https://github.com/user-attachments/assets/1d218ab4-760d-49fe-8045-3e798573a143)
+![Screenshot 2024-09-02 082950](https://github.com/user-attachments/assets/7d6f0a81-214c-4e91-866f-2d0bd79fcb60)
 
 ## RESULT:
 The program is executed successfully
