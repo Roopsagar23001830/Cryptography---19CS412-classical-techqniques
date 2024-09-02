@@ -174,7 +174,7 @@ Encryption:
 ![Screenshot 2024-09-02 111657](https://github.com/user-attachments/assets/7c23a6a7-4b12-4573-afd6-86951b66dbec)
 
 Decryption:
-![Uploading Screenshot 2024-09-02 111621.png…]()
+![Screenshot 2024-09-02 111621](https://github.com/user-attachments/assets/c1774a04-0501-4570-9c14-9eedf717bc10)
 
 ## RESULT:
 The program is executed successfully
